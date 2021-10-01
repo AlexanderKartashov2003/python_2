@@ -1,0 +1,4 @@
+a = int(input('Hours'))
+b = int(input('Minutes'))
+c = int(input('Seconds'))
+print(a*3600 + b*60 + c)
