@@ -1,3 +1,3 @@
-a = (float(input("Длина комнаты")))
-b = (float(input("Ширина комнаты")))
+a = (float(input("Длина твоего шалашика")))
+b = (float(input("Ширина твоей халупы")))
 print (a*b)
