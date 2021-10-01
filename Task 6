@@ -1,0 +1,6 @@
+a = int(input ('Ваше жалкое число'))
+b = str(a)
+c = list(b)
+d = map(int, c)
+s = sum(d)
+print(s)
